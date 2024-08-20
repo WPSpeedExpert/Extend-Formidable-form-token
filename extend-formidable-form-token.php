@@ -2,7 +2,7 @@
 /*
 Plugin Name: Extend Formidable Form Token
 Description: Fix error for Formidable forms: Form token is invalid. Please refresh the page.
-Version: 1.0
+Version: 1.0.1
 Author: Brian Chin
 Author URI: https://wpspeedexpert.com
 GitHub Theme URI:  https://github.com/WPSpeedExpert/extend-formidable-form-token
