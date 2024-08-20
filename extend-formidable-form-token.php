@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Extend Formidable Form Token
-Description: Extends the times to check before today for Formidable Forms. Fix for: Form token is invalid. Please refresh the page.
+Description: Fix error for Formidable forms: Form token is invalid. Please refresh the page.
 Version: 1.0
 Author: Brian Chin
 Author URI: https://wpspeedexpert.com
